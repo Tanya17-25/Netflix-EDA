@@ -4,16 +4,16 @@ A deep dive into Netflix’s movie collection using Python, exploring trends in 
 
 🔍 Key Insights
 
-1. Most frequent genre 
+1. Most frequent genre :
    **Drama** dominates Netflix’s movie catalog by volume.
 
-2. Most popular movie
+2. Most popular movie :
    Spider-Man : No Way Home
 
-3. Least popular movie
+3. Least popular movie :
    The United States vs Billie Hoilday
 
-4. Year with the most releases
+4. Year with the most releases :
    **2019** saw the highest number of Netflix movie premieres.
 
 
