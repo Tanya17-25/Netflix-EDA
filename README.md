@@ -63,7 +63,7 @@ Popularity vs. Vote Avg (Scatter Plot)
 
 1. Clone this repository  
    bash
-   git clone https://github.com/yourusername/netflix-movie-analysis.git
+   git clone https://github.com/username/netflix-movie-analysis.git
    cd netflix-movie-analysis
 
 
