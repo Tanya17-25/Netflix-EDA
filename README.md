@@ -79,7 +79,6 @@ Popularity vs. Vote Avg (Scatter Plot)
    python analyze.py
    or
    jupyter notebook analysis.ipynb
-   ```
 
 4. View outputs:
 
