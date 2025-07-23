@@ -1,4 +1,4 @@
-🎬 Netflix Movie Data Analysis
+#🎬 Netflix Movie Data Analysis
 
 A deep dive into Netflix’s movie collection using Python, exploring trends in genre, popularity, ratings, and release patterns.
 
